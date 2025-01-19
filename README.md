@@ -1,7 +1,7 @@
 # Web Scraping _ line-sticker
 網路爬蟲 - line動圖抓取
 
-# Project Gutenberg v1.0
+## 內容摘要
 爬取line動圖，共24張。
 耗時 : 約 1分鐘。
 
