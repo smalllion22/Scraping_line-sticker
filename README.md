@@ -8,7 +8,6 @@
 ## 安裝套件
 - requests 2.32.2
 - beautifulsoup4 4.12.3
-- selenium 4.27.1
 
 ## 成果
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/eff460d5-e123-42bc-908e-0b31fefbac80" />
