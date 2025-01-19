@@ -2,7 +2,7 @@
 網路爬蟲 - line動圖抓取
 
 # Project Gutenberg v1.0
-爬取line動圖抓取，共24張
+爬取line動圖，共24張
 耗時 : 約 1分鐘
 
 ## 安裝套件
